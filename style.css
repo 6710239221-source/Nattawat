@@ -1,0 +1,31 @@
+
+.navbar{
+    background: rgb(175, 252, 255);
+    padding: 12px;
+    display: flex;
+    gap:  20px;
+}
+.navbar a {
+    counter-reset: #ff0000;
+    text-decoration: none;
+}
+.navbar a:hover {
+    color: rgb(0, 0, 0);
+}
+
+.banner{
+    width: 100%;
+    max-width: 100%;
+}
+.banner img{
+    width: 100%;
+    height: auto;
+    display: block;
+}   
+p{
+    font: size 48px;
+
+}
+img{
+    width: 500px;  
+}
